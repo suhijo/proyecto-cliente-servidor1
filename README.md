@@ -15,7 +15,6 @@ El repositorio está organizado de la siguiente manera:
 
 Para compilar y ejecutar este proyecto, necesitarás:
 * Un compilador de C++ (GCC/G++ o Clang).
-* Make (En desarollo).
 * Sistema operativo basado en Unix/Linux (recomendado para sockets).
 * Libreria libmariadbcpp
 
