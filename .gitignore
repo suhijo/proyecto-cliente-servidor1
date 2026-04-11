@@ -1,0 +1,15 @@
+# 1. Ignorar todo lo que sea un archivo
+*
+
+# 2. PERMITIR que entre en las carpetas (importante)
+!*/
+
+# 3. PERMITIR tus archivos específicos en cualquier nivel
+!*.cpp
+!*.hpp
+!*.conf
+!*.sh
+
+# 4. Archivos de control que sí queremos
+!.gitignore
+!README.md
